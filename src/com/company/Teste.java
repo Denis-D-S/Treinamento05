@@ -1,5 +1,7 @@
 package com.company;
 
 public class Teste {
-    //código branch third
+    //novo codigo da branch second?
+    //que porra está acontecendo que não está dando conflito???
+
 }
